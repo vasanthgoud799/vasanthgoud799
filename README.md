@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasanthgoud799&label=Profile%20views&color=0e75b6&style=flat" alt="vasanthgoud799" /> </p>
 
-- 🔭 I’m currently working on [photofamgallary](https://github.com/vasanthgoud799/photo-fam-gallery)
+- 🔭 I’m currently working on [photofamgallery](https://github.com/vasanthgoud799/photo-fam-gallery)
 
 - 🌱 I’m currently learning **MERN Stack, Tailwind CSS**
 
